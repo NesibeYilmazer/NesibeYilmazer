@@ -1,5 +1,6 @@
 ## Hi there ##
 [![Linkedin](https://img.shields.io/badge/-NesibeYilmazer-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nesibe-y%C4%B1lmazer-0aa5721b1/)
+[![Gmail](https://img.shields.io/badge/-sncny06e1-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sncny06e10@gmail.com)
 
 <!--
 **NesibeYilmazer/NesibeYilmazer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
