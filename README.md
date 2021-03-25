@@ -4,7 +4,7 @@ Hello, I'm Nesibe, so who am I?
 
 
 
-### About Me  :blush:
+### About Me  😊 
 
 <p> I'm 21 years old and I'm living in Germany from 2 years. I've never worked before. I've no salary & income source. My mother language is Turkish. I graduated from high school. I’m currently learning German and English and the software&developement now. I do not have any university registration now, but I want to study at a university in the future. I’m looking for help with how can I speed up learning, getting a job and get an income?
 
@@ -24,4 +24,5 @@ Hello, I'm Nesibe, so who am I?
 
 
 
-![Nesibe's Most Used Languages](https://github.com/nesibeyilmazer/github-readme-stats)
+![Nesibe's GitHub stats](https://github-readme-stats.vercel.app/api?username=NesibeYilmazer&show_icons=true&theme=dark)
+
