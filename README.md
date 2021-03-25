@@ -24,4 +24,4 @@ Hello, I'm Nesibe, so who am I?
 
 
 
-![Nesibe's Most Used Languages](https://github.com/NesibeYilmazer/github-readme-stats)
+![Nesibe's Most Used Languages](https://github.com/nesibeyilmazer/github-readme-stats)
