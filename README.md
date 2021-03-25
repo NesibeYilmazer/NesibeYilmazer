@@ -10,11 +10,8 @@ Hello, I'm Nesibe, so who am I?
 
 
 
-Ask me anything, my reach details are below :arrow_down:
+📫 How to reach me ? Ask me anything, my reach details are here, :arrow_down:
 
-
-
-📫 How to reach me:
 
 [![Linkedin](https://img.shields.io/badge/-NesibeYilmazer-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nesibe-y%C4%B1lmazer-0aa5721b1/)
 [![Gmail](https://img.shields.io/badge/-NesibeYilmazer-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sncny06e10@gmail.com)
@@ -25,3 +22,6 @@ Ask me anything, my reach details are below :arrow_down:
 
 ![coder pic](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
+
+
+![Nesibe's Most Used Languages](https://github.com/NesibeYilmazer/github-readme-stats)
