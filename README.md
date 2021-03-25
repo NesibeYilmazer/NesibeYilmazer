@@ -23,4 +23,4 @@ Ask me anything, my reach details are above :arrow_up:
 
 
 
-![Nesibe's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Nesibe's GitHub stats](https://github-readme-stats.vercel.app/api?username=NesibeYilmazer&hide=contribs,prs)
