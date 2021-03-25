@@ -20,12 +20,8 @@ Hello, I'm Nesibe, so who am I?
 
 
 
-![Nesibe's GitHub stats](https://github-readme-stats.vercel.app/api?username=NesibeYilmazer&show_icons=true&theme=dark)
-
-
-
-
 ![crazy coder gif](https://media2.giphy.com/media/MdA16VIoXKKxNE8Stk/200w.webp?cid=ecf05e47u8v25ib4wyxw3kt3r9tjgpjmnvgcuzspjey5pgwa&rid=200w.webp)
 
 
 
+![Nesibe's GitHub stats](https://github-readme-stats.vercel.app/api?username=NesibeYilmazer&show_icons=true&theme=dark)
