@@ -1,12 +1,23 @@
 ## Hi there ##
+
+📫 How to reach me:
+
 [![Linkedin](https://img.shields.io/badge/-NesibeYilmazer-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nesibe-y%C4%B1lmazer-0aa5721b1/)
 [![Gmail](https://img.shields.io/badge/-NesibeYilmazer-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sncny06e10@gmail.com)
 [![CodePen](https://img.shields.io/badge/-NesibeYilmazer-black?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/nesyil)
-[![Twitter](www.twitter.com/nnesyil)]
+[![Twitter](https://twitter.com/nnesyil)]
 
-### About Me
-<p> I'm 21 years old and I'm living in Germany. I've never worked before. I've no salary & income source. My mother language is Turkish. :blush:
-  
+
+
+
+### About Me  :blush:
+
+<p> - I'm 21 years old and I'm living in Germany. 
+    - I've never worked before. 
+    - I've no salary & income source. 
+    - My mother language is Turkish. 
+    - I’m currently learning German and English.
+    - 
 
 
 Here are some ideas to get you started:
