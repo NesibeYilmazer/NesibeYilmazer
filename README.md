@@ -19,7 +19,7 @@ Ask me anything, my reach details are below :arrow_up:
 [![Linkedin](https://img.shields.io/badge/-NesibeYilmazer-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nesibe-y%C4%B1lmazer-0aa5721b1/)
 [![Gmail](https://img.shields.io/badge/-NesibeYilmazer-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sncny06e10@gmail.com)
 [![CodePen](https://img.shields.io/badge/-NesibeYilmazer-black?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/nesyil)
-[![Twitter](https://img.shields.io/badge/-NesibeYilmazer-purple?style=flat&logo=CodePen&logoColor=white)(https://twitter.com/nnesyil)]
+[![Twitter](https://img.shields.io/badge/-NesibeYilmazer-purple?style=flat&logo=Twitter&logoColor=white)(https://twitter.com/nnesyil)]
 
 
 
