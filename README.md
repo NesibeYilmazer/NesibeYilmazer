@@ -1,6 +1,6 @@
 ## Hi there ##
 
-Hello, I'm Nesibe, so who am I?
+I'm Nesibe, please read below,
 
 
 
