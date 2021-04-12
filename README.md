@@ -3,7 +3,7 @@
  <p>   
     I am a, 21-year-old woman trying to become a "developer" in the IT community and adapt to Germany. I am looking for the fastest ways to find a job.
     I've never worked before in any workplace and I have no salary or income source. My mother language is Turkish. I have high school certificate. 
-    I’m currently learning German and English and the Full Stack Developement now. I do not have a university background, just for now.
+    I’m currently learning German and English and the Full Stack Developement now. I do not have a university background, but, just for now..
 
 
 
