@@ -1,6 +1,14 @@
 # Hi there 👋  I'm Nesibe #
-
-<p> I'm 21 years old and I'm living in Germany from 2 years. I've never worked before. I've no salary & income source. My mother language is Turkish. I graduated from high school. I’m currently learning German and English and the software&developement now. I do not have any university registration now, but I want to study at a university in the future. I’m looking for help with how can I speed up learning, getting a job and get an income?
+    
+ <p>   
+    I'm 21 years old and living in Germany from 2 years. 
+    I've never worked before in any workplace. 
+    I've no salary or income source.
+    My mother language is Turkish. 
+    I have high school certificate. 
+    I’m currently learning German and English and the Software Developement now. 
+    I do not have any University registration now, but I want to start. 
+    I am looking for the fastest ways to find a job.
 
 
 
@@ -22,7 +30,7 @@
 
 
 
-#### And how I work like 😝 ####
+#### How I work like 😝 ####
 
 ![crazy coder gif](https://media2.giphy.com/media/MdA16VIoXKKxNE8Stk/200w.webp?cid=ecf05e47u8v25ib4wyxw3kt3r9tjgpjmnvgcuzspjey5pgwa&rid=200w.webp)
 
