@@ -1,14 +1,9 @@
 # Hi there 👋  I'm Nesibe #
     
  <p>   
-    I'm 21 years old and living in Germany from 2 years. 
-    I've never worked before in any workplace. 
-    I've no salary or income source.
-    My mother language is Turkish. 
-    I have high school certificate. 
-    I’m currently learning German and English and the Software Developement now. 
-    I do not have any University registration now, but I want to start. 
-    I am looking for the fastest ways to find a job.
+    I am a, 21-year-old woman trying to become a "developer" in the IT community and adapt to Germany. I am looking for the fastest ways to find a job.
+    I've never worked before in any workplace and I have no salary or income source. My mother language is Turkish. I have high school certificate. 
+    I’m currently learning German and English and the Full Stack Developement now. I do not have a university background, just for now.
 
 
 
