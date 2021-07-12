@@ -1,9 +1,8 @@
 # Hi there 👋  I'm Nesibe #
     
  <p>   
-    I am a, 21-year-old woman trying to become a "developer" in the IT community and adapt to Germany. I am looking for the fastest ways to find a job.
-    I've never worked before in any workplace and I have no salary or income source. My mother language is Turkish. I have high school certificate. 
-    I’m currently learning German and English and the Full Stack Developement now. I do not have a university background, but, just for now..
+    I am a, 21-year-old woman trying to become a "developer" in the IT community. I am looking for the fastest ways to find a job.
+    I've never worked before in any workplace and I have no salary or income source. My main language is Turkish. I’m currently learning German and English and the Full Stack Developement now.
 
 
 
@@ -24,7 +23,7 @@
 
 
 
-#### How I work like 😝 ####
+#### And how I work like 😝 ####
 
 ![crazy coder gif](https://media2.giphy.com/media/MdA16VIoXKKxNE8Stk/200w.webp?cid=ecf05e47u8v25ib4wyxw3kt3r9tjgpjmnvgcuzspjey5pgwa&rid=200w.webp)
 
