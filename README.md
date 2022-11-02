@@ -1,8 +1,9 @@
-# Hi there 👋  I'm Nesibe #
+# Hi there 👋  It's Nes #
     
  <p>   
-    I am a, 21-year-old woman trying to become a "developer" in the IT community. I am looking for the fastest ways to find a job.
-    I've never worked before in any workplace and I have no salary or income source. My main language is Turkish. I’m currently learning German and English and the Full Stack Developement now.
+    I am a, 22-year-old woman trying to become a "developer" and "graphic designer/ artist" in the IT community. I am looking for the fastest ways to find a job.
+
+    My main language is Turkish. I’m currently learning coding skills & more about the "Full Stack Developement" now.
 
 
 
@@ -11,7 +12,7 @@
 [![Linkedin](https://img.shields.io/badge/-NesibeYilmazer-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nesibe-y%C4%B1lmazer-0aa5721b1/) 
 [![Gmail](https://img.shields.io/badge/-NesibeYilmazer-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sncny06e10@gmail.com) 
 [![CodePen](https://img.shields.io/badge/-NesibeYilmazer-black?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/nnesyil)
-
+[![Discord](http://discordapp.com/users/nes#7444)]
 
 
 ### Here is my status: ###
