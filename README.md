@@ -12,7 +12,7 @@
 [![Linkedin](https://img.shields.io/badge/-NesibeYilmazer-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nesibe-y%C4%B1lmazer-0aa5721b1/) 
 [![Gmail](https://img.shields.io/badge/-NesibeYilmazer-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sncny06e10@gmail.com) 
 [![CodePen](https://img.shields.io/badge/-NesibeYilmazer-black?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/nnesyil)
-
+[![SheCodes](https://www.shecodes.io/users/64113-nesibe-yilmazer)](https://www.shecodes.io/users/64113-nesibe-yilmazer)
 
 ### Here is my status: ###
 
