@@ -2,7 +2,8 @@
     
  <p>   
     Editor, Graphic Designer, FullStack Developer
-    Currently living in 🇩🇪
+    
+    ### Currently living in 🇩🇪 ###
 
 ### 📫 You can reach me with these: ###
 
