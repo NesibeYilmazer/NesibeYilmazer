@@ -1,10 +1,10 @@
 # Hi there 👋  It's Nes(22,🇹🇷) #
     
  <p>   
-    👩🏼‍💻  Editor📸 , Graphic Designer🧩 , FullStack Developer💻
     
     📍  Currently living in 🇩🇪
 
+    
 ### 📫 You can reach me with these: ###
 
 [![Linkedin](https://img.shields.io/badge/-NesibeYilmazer-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nesibe-y%C4%B1lmazer-0aa5721b1/) 
