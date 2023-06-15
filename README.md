@@ -1,4 +1,4 @@
-# Hi there 👋  It's Nes(22,🇹🇷) #
+# Hi there 👋  It's Nes #
     
  <p>   
     
